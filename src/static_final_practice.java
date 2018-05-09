@@ -2,6 +2,7 @@ class Thing {
 	public String name;
 	public static String description;
 	public final static int special_number = 420;
+	public int id;
 	// final means it cant be reassigned
 	public static int count = 0;
 
@@ -15,10 +16,10 @@ class Thing {
 	}
 
 	public Thing() {
-		count++;
 		// the count variable is staic, so its shared by all objects
 		// doesn't mean it can't be added to or changed
-		System.out.println(count);
+		id = count;
+		count++;
 	}
 
 	public void get_count() {

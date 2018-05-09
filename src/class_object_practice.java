@@ -45,7 +45,7 @@ class Champion{
 	}
 
 	public void set_name(Sting name) {
-		this.name = name
+		this.name = name;
 	}
 }
 
