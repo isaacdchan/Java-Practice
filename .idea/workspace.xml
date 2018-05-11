@@ -27,8 +27,8 @@
       <file leaf-file-name="constructor_practice.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/constructor_practice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="207">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -55,8 +55,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,11 +141,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1933" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="1" />
       <window_info content_ui="combo" x="830" y="180" width="260" height="681" id="Project" order="0" sideWeight="0.4895719" visible="true" weight="0.13653137" />
       <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" weight="0.25816995" />
-      <window_info active="true" anchor="bottom" id="Messages" order="9" visible="true" weight="0.22984749" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info x="251" y="177" width="626" height="918" id="Learn" order="2" show_stripe_button="false" sideWeight="0.51042813" weight="0.17764892" />
@@ -161,6 +161,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Messages" order="9" visible="true" weight="0.22984749" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" show_stripe_button="false" weight="0.2496" />
@@ -198,20 +199,36 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application.java">
+    <entry file="file://$PROJECT_DIR$/src/array_practice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inheritance_practice/Machine.java">
+    <entry file="file://$PROJECT_DIR$/src/constructor_practice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
+        <state relative-caret-position="322">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array_practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/constructor_practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/application.java" />
+    <entry file="file://$PROJECT_DIR$/inheritance_practice/Machine.java" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Learning">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -233,13 +250,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/constructor_practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/constructor_practice.java" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Learning">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -247,76 +258,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/constructor_practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inheritance_practice/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class_object_practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/for_practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inheritance_practice/Machine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inheritance_practice/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/for_practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class_object_practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inheritance_practice/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/constructor_practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" selection-start-line="7" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/constructor_practice.java" />
+    <entry file="file://$PROJECT_DIR$/inheritance_practice/App.java" />
+    <entry file="file://$PROJECT_DIR$/class_object_practice.java" />
+    <entry file="file://$PROJECT_DIR$/for_practice.java" />
+    <entry file="file://$PROJECT_DIR$/inheritance_practice/Machine.java" />
+    <entry file="file://$PROJECT_DIR$/inheritance_practice/App.java" />
+    <entry file="file://$PROJECT_DIR$/for_practice.java" />
+    <entry file="file://$PROJECT_DIR$/class_object_practice.java" />
+    <entry file="file://$PROJECT_DIR$/inheritance_practice/Car.java" />
+    <entry file="file://$PROJECT_DIR$/constructor_practice.java" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Learning">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -324,30 +275,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/constructor_practice/constructor_practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inheritance_practice/Machine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/Champion.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/application.java" />
+    <entry file="file://$PROJECT_DIR$/constructor_practice/constructor_practice.java" />
+    <entry file="file://$PROJECT_DIR$/inheritance_practice/Machine.java" />
     <entry file="file://$PROJECT_DIR$/src/array_practice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -357,8 +287,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/constructor_practice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="207">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
         </state>
       </provider>
     </entry>
