@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Casting Module/Casting Module.iml" filepath="$PROJECT_DIR$/Casting Module/Casting Module.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance Module/Inheritance Module.iml" filepath="$PROJECT_DIR$/Inheritance Module/Inheritance Module.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interface Module/Interface Module.iml" filepath="$PROJECT_DIR$/Interface Module/Interface Module.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Tutorials Project.iml" filepath="$PROJECT_DIR$/Java Tutorials Project.iml" />

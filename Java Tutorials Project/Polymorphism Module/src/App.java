@@ -17,18 +17,19 @@ public class App {
 		//this works because a tree is calling a tree method
 		tree1.shed_leaves();
 		//this does not work because the reference is what matters when calling method
-		//plant3.shed_leaves();
-		//this works because you've added the disclaimer that specifies the method is from tree
+		plant3.shed_leaves();
+
+		//this (line 26) works because you've added the disclaimer that specifies the method is from tree
 		//you could call plant3.grow() and it'd call the tree.grow() instead of plant because plant has the ability to call .grow() but it uses the tree method
 		//if you included a shed_leaves() to plant, it'd me able to call tree's shed_leaves()
-		//it's the variable that decides which methods you can call. when you call you go to the object
+		//it's the variable that decides which methods you CAN call. its the object that determines which actual method IS called
 		((Tree) plant3).shed_leaves();
 
 		//works because tree is a child of plant
 		doGrow(tree1);
 	}
 
-	//takes in a type plant variable, labels it as plant, and grows it
+	//takes in a type plant variable, labels it as plant, and grows plant
 	public static void doGrow(Plant plant) {
 		plant.grow();
 	}
